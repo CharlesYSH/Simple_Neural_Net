@@ -8,6 +8,7 @@
 
 1.使用Database of Faces (AT&T Laboratories Cambridge)
 Reference : http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+
 2.開啟main.py
 
 ----------------main.py----------------
