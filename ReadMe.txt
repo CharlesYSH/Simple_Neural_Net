@@ -4,7 +4,7 @@
 
 #Code執行說明
 #Python使用套件PIL(讀取影像)numpy(陣列運算)matplotlib.pyplot(畫圖)matplotlib.mlab(PCA)
-#以下必須在相同路徑下(main.sln)(Data_Train資料夾)(Demo資料夾)
+#以下必須在相同路徑下(main.py)(Data_Train資料夾)(Demo資料夾)
 
 1.使用Database of Faces (AT&T Laboratories Cambridge)
 Reference : http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
