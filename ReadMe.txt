@@ -1,6 +1,6 @@
-﻿#@author 	YSH
-#@version 	1.0 2017/04/25
-#@copyright	YSH 僅供學習交流
+#author 	YSH
+#version 	1.0 2017/04/25
+#copyright	YSH 僅供學習交流
 
 #Code執行說明
 #Python使用套件PIL(讀取影像)numpy(陣列運算)matplotlib.pyplot(畫圖)matplotlib.mlab(PCA)
@@ -30,9 +30,9 @@ conductPCA        > 進行Data PCA並輸出降維度後的陣列在CSV檔案
 usetoolPCA        > PCA是否使用tool box，否則使用bmpPCA.py進行
 plotPCA           > 在CSV中PCA降維度陣列繪圖
 CreateTrainData   > 用PCA創造隨機排序標記好的training Data  (對應函式內可修改總訓練資料量)
-Train_1LayerModel > 訓練neural network model with 1-hidden layer (對應函式內可修learn rate)
+Train_1LayerModel > 訓練neural network model with 1-hidden layer (對應函式內可修learning rate)
 Valid_1LayerModel > 產生結果驗證neural network model with 1-hidden layer (對應函式內可修改總驗證資料量)
-Train_2LayerModel > 訓練neural network model with 2-hidden layer (對應函式內可修learn rate)
+Train_2LayerModel > 訓練neural network model with 2-hidden layer (對應函式內可修learning rate)
 Valid_2LayerModel > 產生結果驗證neural network model with 2-hidden layer (對應函式內可修改總驗證資料量)
 plotNN1           > 畫出neural network model with 1-hidden layer線性簡化分界
 creatplotNN2data  > 利用整個座標產生輸出結果，請用matlab或excel查看分界 (把所有可能輸出會跑一段時間)
